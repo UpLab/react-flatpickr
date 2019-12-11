@@ -9,7 +9,7 @@ var _react = _interopRequireWildcard(require("react"));
 
 var _propTypes = _interopRequireDefault(require("prop-types"));
 
-var _flatpickr = _interopRequireDefault(require("flatpickr"));
+var _flatpickr = _interopRequireDefault(require("@uplab/flatpickr"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
